@@ -1,0 +1,31 @@
+ # Gradle
+/.gradle/
+/build/
+/app/build/
+/out/
+*.jar
+*.war
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+/.project
+/.classpath
+/.settings/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Other files to ignore
+*.class
+
